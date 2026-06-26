@@ -88,4 +88,5 @@ class View(ft.UserControl):
         self._page.update()
 
     def update_page(self):
-        self._page.update()
+        self._page.update(
+            .

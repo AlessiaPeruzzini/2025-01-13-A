@@ -82,3 +82,4 @@ group by i.GeneID1, i.GeneID2"""
             cursor.close()
             cnx.close()
             return result
+        .

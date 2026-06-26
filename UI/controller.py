@@ -79,4 +79,5 @@ class Controller:
 
     def handleDDloca(self, e):
         self._loca = e.control.data
+        .
 

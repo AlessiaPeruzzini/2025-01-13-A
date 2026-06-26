@@ -11,3 +11,4 @@ class Classification:
 
     def __hash__(self):
         return hash(self.GeneID)
+    .

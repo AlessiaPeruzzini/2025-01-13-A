@@ -79,3 +79,4 @@ class Model:
 
     def getGraphDetails(self):
         return len(self._graph.nodes), len(self._graph.edges)
+    .
